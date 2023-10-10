@@ -17,7 +17,9 @@ The following STRETCH features are implemented:
 
 ## Video Demo 
 Here's a video / GIF that demos all of the app's implemented features: 
+
 ![](https://github.com/anchan0223/Tip_Calculator/blob/master/Project4.gif)
+
 
 Video Demo GIF created with **ScreentoGif** 
 
